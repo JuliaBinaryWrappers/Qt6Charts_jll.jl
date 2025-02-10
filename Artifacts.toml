@@ -1,244 +1,244 @@
 [[Qt6Charts]]
 arch = "aarch64"
-git-tree-sha1 = "d4c9fb68913b5cf7a801654a2a46f8e7d6e9a52e"
+git-tree-sha1 = "cf6e2c02ccf6d63e9287cc14ff9bc38a88c3fb88"
 os = "macos"
 
     [[Qt6Charts.download]]
-    sha256 = "e5b58689f68dc57b01f02f0a506ca19d2b70779001e270046517733e1819d912"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.7.1+0/Qt6Charts.v6.7.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "0b2364f11e71ca28d7c5d4d572105beac65702b3202802e6fee4ed8a2cbce2f8"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.8.2+0/Qt6Charts.v6.8.2.aarch64-apple-darwin.tar.gz"
 [[Qt6Charts]]
 arch = "x86_64"
-git-tree-sha1 = "e58f5296c82fd7bfb4e3f18632ddcef4b6cfd337"
+git-tree-sha1 = "81e64fb702e1d70f5519ee27323ace6fe775fd65"
 os = "macos"
 
     [[Qt6Charts.download]]
-    sha256 = "131eb72d18994f57896be8a16eb52b3efcf27502908c75eb88b9b1f90766c026"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.7.1+0/Qt6Charts.v6.7.1.x86_64-apple-darwin.tar.gz"
-[[Qt6Charts]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "f6a906c2077432decf65ffa40c3db5e2dee78339"
-libc = "glibc"
-os = "linux"
-
-    [[Qt6Charts.download]]
-    sha256 = "c8a7068c3d4e2833ca5e49421e8b5619d504393f5b3b71e23e6e88bf594b25a6"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.7.1+0/Qt6Charts.v6.7.1.aarch64-linux-gnu-cxx03.tar.gz"
-[[Qt6Charts]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "c0b2180150b59b120542a7a3269e98f6cdfd274a"
-libc = "glibc"
-os = "linux"
-
-    [[Qt6Charts.download]]
-    sha256 = "0231b1d4c4ab5e36e8983e3f15e4fe5abef29126c8de53497fd1c442c72becd8"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.7.1+0/Qt6Charts.v6.7.1.aarch64-linux-gnu-cxx11.tar.gz"
-[[Qt6Charts]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "1da2392f0ed5f4c57b0587d7f5f58f98b9291052"
-libc = "musl"
-os = "linux"
-
-    [[Qt6Charts.download]]
-    sha256 = "9379eaac89055d541c128ec425b4811e7733b73e4e4d9c63f53053042da4e4c9"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.7.1+0/Qt6Charts.v6.7.1.aarch64-linux-musl-cxx03.tar.gz"
-[[Qt6Charts]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "30786e1d38819dec80261939a620dca47468229b"
-libc = "musl"
-os = "linux"
-
-    [[Qt6Charts.download]]
-    sha256 = "2d19c07356bc567a354cd25add562e7343fdd50cfc807e14bd2ecac52c2069d4"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.7.1+0/Qt6Charts.v6.7.1.aarch64-linux-musl-cxx11.tar.gz"
-[[Qt6Charts]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "9869912f7db8fb524f1b85717ed749aa53d82283"
-libc = "glibc"
-os = "linux"
-
-    [[Qt6Charts.download]]
-    sha256 = "26ae915efe368e9f0b6fc83bf2d2c9f86121a2041560d65781d87a1abe1914b7"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.7.1+0/Qt6Charts.v6.7.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
-[[Qt6Charts]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "77a83d101ebdc74e2bf3235456f609ccdeccc1d9"
-libc = "glibc"
-os = "linux"
-
-    [[Qt6Charts.download]]
-    sha256 = "2f992be93aaf1ef9b91df9a1f6f4a1d379fd517a9f5edb1940179dcc41c07f23"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.7.1+0/Qt6Charts.v6.7.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
-[[Qt6Charts]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "d71d291ffd5f368e4da8ea0efd29b59d476103aa"
-libc = "musl"
-os = "linux"
-
-    [[Qt6Charts.download]]
-    sha256 = "d5d4cbd0c8362434deac34a819313c1975192195a94abdfa095f11ac0f841db7"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.7.1+0/Qt6Charts.v6.7.1.armv7l-linux-musleabihf-cxx03.tar.gz"
-[[Qt6Charts]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "60ba27ff434b54f422a6a36630e18d38ed626b67"
-libc = "musl"
-os = "linux"
-
-    [[Qt6Charts.download]]
-    sha256 = "0fe47d794f3437c84f79991d6b0dbed01aae3d31943e025d01ce18463b44b64c"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.7.1+0/Qt6Charts.v6.7.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "f5c9229b9a2a037dbbb45a3492d0ade99ee84fe942d61cad2baa4ae2d2b284c8"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.8.2+0/Qt6Charts.v6.8.2.x86_64-apple-darwin.tar.gz"
 [[Qt6Charts]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "29124317f9ac46e55087c674f24bf22b6d9dc45b"
-libc = "glibc"
-os = "linux"
-
-    [[Qt6Charts.download]]
-    sha256 = "a343c72d5e615da1e4d3b809a03a1a66101347687af7799badc63e8ebfc38c02"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.7.1+0/Qt6Charts.v6.7.1.i686-linux-gnu-cxx03.tar.gz"
-[[Qt6Charts]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "27c93a7f28d683072c8116a02ee5d18cc760ea1c"
-libc = "glibc"
-os = "linux"
-
-    [[Qt6Charts.download]]
-    sha256 = "39fe9b0731be32cde1a519dd9ccb62339194c660ad073daedb7b9a5d9aafc6e8"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.7.1+0/Qt6Charts.v6.7.1.i686-linux-gnu-cxx11.tar.gz"
-[[Qt6Charts]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "71200b79e303662b0fa0f126a8873c1e12db71bd"
-libc = "musl"
-os = "linux"
-
-    [[Qt6Charts.download]]
-    sha256 = "bb53a2581ca2530d693e094e21e6cddedd6866e9265ad95d0214beea43a0a9c0"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.7.1+0/Qt6Charts.v6.7.1.i686-linux-musl-cxx03.tar.gz"
-[[Qt6Charts]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "e7092316811f701af87f1879da9d45bb74d83528"
-libc = "musl"
-os = "linux"
-
-    [[Qt6Charts.download]]
-    sha256 = "f532169230827df2f6cf7d14eb66da7bb08e1e662b1a3d62e61755278f36d96c"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.7.1+0/Qt6Charts.v6.7.1.i686-linux-musl-cxx11.tar.gz"
-[[Qt6Charts]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "960f89493e1f237ad24daa0221e568a1b3bbb9dc"
+git-tree-sha1 = "00315f6f6aa906fd2189e599d025e6467e47c66d"
 os = "windows"
 
     [[Qt6Charts.download]]
-    sha256 = "80702d0acb901011cdbbdd2c6d0a4341147c8480323df0dc567c035f9c7bb28e"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.7.1+0/Qt6Charts.v6.7.1.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "a09c2cd3f7f2e6253142b1749f1d73d83df6bdffcb525f53b92f1a32cba6f793"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.8.2+0/Qt6Charts.v6.8.2.i686-w64-mingw32-cxx03.tar.gz"
 [[Qt6Charts]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3e57a880e2144f834ae169d787237474d23d86ec"
+git-tree-sha1 = "5c87b6c45e24c506b7c1309364d9e318faa5acda"
 os = "windows"
 
     [[Qt6Charts.download]]
-    sha256 = "4e2ec2834e359bde39d7c047dfe63a205f719e66734f0ee7fa3d40bfea2d6f8c"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.7.1+0/Qt6Charts.v6.7.1.i686-w64-mingw32-cxx11.tar.gz"
-[[Qt6Charts]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "42e7651ae8208dd63f418c00e076fa19fa8a2b2f"
-libc = "glibc"
-os = "linux"
-
-    [[Qt6Charts.download]]
-    sha256 = "f8f273b1ea1092f067ab7829eeab047c2ab63b938c2a8e6ca55531a90259f4b3"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.7.1+0/Qt6Charts.v6.7.1.powerpc64le-linux-gnu-cxx03.tar.gz"
-[[Qt6Charts]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "6a6c4bc146b60f1c69cc3d9a48618057bec90783"
-libc = "glibc"
-os = "linux"
-
-    [[Qt6Charts.download]]
-    sha256 = "f737a200d3a96ef407a867a463d2959c7c23fea7119b7525b3291b1cb8eb8b64"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.7.1+0/Qt6Charts.v6.7.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "c7ca4c4ff300b365aa2a1305ae6cce479bd78221d6f4e7f07333aa219d13af47"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.8.2+0/Qt6Charts.v6.8.2.i686-w64-mingw32-cxx11.tar.gz"
 [[Qt6Charts]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e3906a38b65bb9adbbc543e5d4d4b11cb3ce4f2d"
-libc = "glibc"
-os = "linux"
+git-tree-sha1 = "3451a79f7bc992baafc6c25c43cef8866b688c56"
+os = "windows"
 
     [[Qt6Charts.download]]
-    sha256 = "a33ad7b318c13cc59b035f7e72cff3ebd7ab69dd7bc9f31b0d33405a57d04306"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.7.1+0/Qt6Charts.v6.7.1.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "ebee3a3bd9ebac927a37c280312cb76f855fd0bb1684cd850980ed14ba423505"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.8.2+0/Qt6Charts.v6.8.2.x86_64-w64-mingw32-cxx03.tar.gz"
 [[Qt6Charts]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "332c18f8462c19fe5e9c7da58dd10624f1dd49a1"
+git-tree-sha1 = "63c6a0e766864012b3d508ff1bbde6b50faf4cb3"
+os = "windows"
+
+    [[Qt6Charts.download]]
+    sha256 = "8fe19b675b0afc43101e930c9615ee6df6efdaa67c85279fb1bd0313c7b99d91"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.8.2+0/Qt6Charts.v6.8.2.x86_64-w64-mingw32-cxx11.tar.gz"
+[[Qt6Charts]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6116f0a1ad698938740109c2a4547ca7964748e5"
 libc = "glibc"
 os = "linux"
 
     [[Qt6Charts.download]]
-    sha256 = "fa091ca792cb2dbc45741fca4db46ad40ab4b9141d2ce4176e6ca85b135a6e8f"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.7.1+0/Qt6Charts.v6.7.1.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "7927716415b27fc2a4040b190227778d142a82843cbfdd75fcb10d22286dfee3"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.8.2+0/Qt6Charts.v6.8.2.aarch64-linux-gnu-cxx03.tar.gz"
 [[Qt6Charts]]
-arch = "x86_64"
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "204eebc1183a46d0ef42e91bd3e25ba51b95701d"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Charts.download]]
+    sha256 = "1f267360bd936187e35935a9b360f0a79424c50082fe7e2e6da9e88fc2d5ba50"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.8.2+0/Qt6Charts.v6.8.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[Qt6Charts]]
+arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "adfc68031abdb9b53bacdcd6227eba8a8f3e1077"
+git-tree-sha1 = "95c930ec9bb83e419aeb744a1eb99324060c69a3"
 libc = "musl"
 os = "linux"
 
     [[Qt6Charts.download]]
-    sha256 = "3980338c3b418fcca10f3bade4672890ee24b111d0807b4c63728b017e3832bb"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.7.1+0/Qt6Charts.v6.7.1.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "6921f756303853ebe7d0e2a3d6dd44c84df6738bcb6356b1682140d95c086340"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.8.2+0/Qt6Charts.v6.8.2.aarch64-linux-musl-cxx03.tar.gz"
 [[Qt6Charts]]
-arch = "x86_64"
+arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "50080e196440b7ea68ef9e05de83769586076dc3"
+git-tree-sha1 = "2efa5257e3179cd5736580910c56be695ac31e1b"
 libc = "musl"
 os = "linux"
 
     [[Qt6Charts.download]]
-    sha256 = "b66f7572b583740c60650c14e28eab982b6c4198ff0697d5c708e88072acfc28"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.7.1+0/Qt6Charts.v6.7.1.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "d9a0b22d4fc301dbc3b7780804fd2f100b7ef0a611ef3ab4be435d8dc0552e78"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.8.2+0/Qt6Charts.v6.8.2.aarch64-linux-musl-cxx11.tar.gz"
+[[Qt6Charts]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "daf53a0f174a02b4d42e1d8542d92d34a7aff382"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Charts.download]]
+    sha256 = "a721ba692dae87fb0dbbb76f7b34cc05f7d3dfd34529d015e6101677c8a6f064"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.8.2+0/Qt6Charts.v6.8.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Qt6Charts]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "767eb153c38601e2b96a33df6780807c46b55a94"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Charts.download]]
+    sha256 = "668705ebe2b9a49bb88e2ab5158e632fba1607692dee519f5471164e0101c1b4"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.8.2+0/Qt6Charts.v6.8.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Qt6Charts]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7c11735da24ecdbf361273a77e141b23afbec058"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Charts.download]]
+    sha256 = "f62c1b38401d5684697066f6dd06b21fe0c2a6955d7bd9868e0dc32e1cdfaa45"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.8.2+0/Qt6Charts.v6.8.2.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Qt6Charts]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ac5ebcc6bfe87ab077bfa0240cda254ec879621c"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Charts.download]]
+    sha256 = "c9d54dcb9c0b25b5cb11e54997e58651927cd675ad3a019ab0afca4df623362b"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.8.2+0/Qt6Charts.v6.8.2.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Qt6Charts]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f6dee7d603b44932182c2975040bd0a5b7f24ccc"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Charts.download]]
+    sha256 = "69c640d7a87f9d5c9b97bee31aecf2afa7c9f1d4fe7f4e33e1a1bfc5dfb6d541"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.8.2+0/Qt6Charts.v6.8.2.i686-linux-gnu-cxx03.tar.gz"
+[[Qt6Charts]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "74edb5048ddad43389950d75c44fafed82afa064"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Charts.download]]
+    sha256 = "2a2438c8f68718a0653d56e704948a906f0f58c90ee5f97db162c51dff889155"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.8.2+0/Qt6Charts.v6.8.2.i686-linux-gnu-cxx11.tar.gz"
+[[Qt6Charts]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cd386269ff652ee7b4b7607775f70c6739214f78"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Charts.download]]
+    sha256 = "551b55e90fa0b0dcb889d45b1ed27373dcaa7828931e33d1cc98528c52c02481"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.8.2+0/Qt6Charts.v6.8.2.i686-linux-musl-cxx03.tar.gz"
+[[Qt6Charts]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f6384145ab1a28ac8c7d7388414dfec63736b4d0"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Charts.download]]
+    sha256 = "a14869646baef5fff129856747234700dbf0c10b56945cfc90410ab26771e511"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.8.2+0/Qt6Charts.v6.8.2.i686-linux-musl-cxx11.tar.gz"
+[[Qt6Charts]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ca832f197c838c79d9c9ffab03134679dcc7db8a"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Charts.download]]
+    sha256 = "c669b05a0defbd315d2a1421e6558f6343037952ef4d36dcc9f2cb2a878be97e"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.8.2+0/Qt6Charts.v6.8.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Qt6Charts]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bd129ba0dab835a0679ea8101ff224555084efd3"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Charts.download]]
+    sha256 = "5cb0e94abdc9cef7703293f13b97fda84b66f0461895192a3ebeea985cf72ff9"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.8.2+0/Qt6Charts.v6.8.2.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[Qt6Charts]]
 arch = "x86_64"
-git-tree-sha1 = "1569fbc21ffffffc5435b4a3b7f8280f25af90d7"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9d43780b0558a4c6a7a8c7d4f3f74238ccb32062"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Charts.download]]
+    sha256 = "94dad0d828510771767584bc56b0e877a38504570782eac014126058197c9c14"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.8.2+0/Qt6Charts.v6.8.2.x86_64-linux-gnu-cxx03.tar.gz"
+[[Qt6Charts]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a6541d5303bd0363d33d1f78130cf0577d0550ef"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Charts.download]]
+    sha256 = "ce0f0415e614243c65f00ae6175c2d2b1e880b53d6048429414b9d403d829c3b"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.8.2+0/Qt6Charts.v6.8.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[Qt6Charts]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "30167b957df45e9a89821e8fee0fd225367e1940"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Charts.download]]
+    sha256 = "aacebfa975b2f8081e95a8e607e1419e5a3668d6dcfe313d571a91f67f6ddc44"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.8.2+0/Qt6Charts.v6.8.2.x86_64-linux-musl-cxx03.tar.gz"
+[[Qt6Charts]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5fabbb4bf5b67d97de9efbb1575018fbe96e14ff"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Charts.download]]
+    sha256 = "e96af9d752d72ff2d7a33adf11cfbd77ae99737c8d9ccf2bfffba63c7518ff2d"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.8.2+0/Qt6Charts.v6.8.2.x86_64-linux-musl-cxx11.tar.gz"
+[[Qt6Charts]]
+arch = "x86_64"
+git-tree-sha1 = "d2ada2e3c9f80a2b87661fd2bcef237531f8b351"
 os = "freebsd"
 
     [[Qt6Charts.download]]
-    sha256 = "1a5325e8e439ebdcd1ac6e10d518f1a87834c9c486f9dbd61c305aca60156c8b"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.7.1+0/Qt6Charts.v6.7.1.x86_64-unknown-freebsd.tar.gz"
-[[Qt6Charts]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "4c2c13814b58726e1c743048e93e2d0108acccf3"
-os = "windows"
-
-    [[Qt6Charts.download]]
-    sha256 = "e4813b8951314a84134a60046c4c3ff9e23898c0a37df43d21fdd0e11eaed1c3"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.7.1+0/Qt6Charts.v6.7.1.x86_64-w64-mingw32-cxx03.tar.gz"
-[[Qt6Charts]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "3419dcda420fb7482a84748111037a76b4866d86"
-os = "windows"
-
-    [[Qt6Charts.download]]
-    sha256 = "9ec7ff403df7af337d2b110d6d3428f30ecac885a9e2345df79c541ee5baaf91"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.7.1+0/Qt6Charts.v6.7.1.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "410f77099d389b922605735fe40aef2ae4b8fa4c8feb19b95a87e6038ccd756f"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Charts_jll.jl/releases/download/Qt6Charts-v6.8.2+0/Qt6Charts.v6.8.2.x86_64-unknown-freebsd.tar.gz"
